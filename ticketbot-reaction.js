@@ -1,3 +1,11 @@
+/**
+ * This code is for the SECOND and THIRD episode of the Ticket Bot Tutorial.
+ * This code only handles role reactions and creates/closes the ticket channels based on that.
+ * If you want the command version, please check "ticketbot-text.js"
+ * By Anson, aka Stuy
+ * Discord Server: https://discord.gg/tFaWNjF
+ */
+
 const discord = require('discord.js');
 const client = new discord.Client();
 
